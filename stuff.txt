@@ -1,0 +1,96 @@
+{
+    "datasource": "bos://buildingos-json/extension", 
+    "expectedDataResolution": "6", 
+    "meterCatalog": [
+        {
+            "meterDescription": "", 
+            "meterId": "air_temperature", 
+            "meterName": "Mayport (Bar Pilots Dock)", 
+            "meterUnits": ""
+        }, 
+        {
+            "meterDescription": "", 
+            "meterId": "air_temperature", 
+            "meterName": "Mayport (Bar Pilots Dock)", 
+            "meterUnits": ""
+        }, 
+        {
+            "meterDescription": "", 
+            "meterId": "air_temperature", 
+            "meterName": "Mayport (Bar Pilots Dock)", 
+            "meterUnits": ""
+        }, 
+        {
+            "meterDescription": "", 
+            "meterId": "air_temperature", 
+            "meterName": "Mayport (Bar Pilots Dock)", 
+            "meterUnits": ""
+        }, 
+        {
+            "meterDescription": "", 
+            "meterId": "air_temperature", 
+            "meterName": "Mayport (Bar Pilots Dock)", 
+            "meterUnits": ""
+        }, 
+        {
+            "meterDescription": "", 
+            "meterId": "air_temperature", 
+            "meterName": "Mayport (Bar Pilots Dock)", 
+            "meterUnits": ""
+        }, 
+        {
+            "meterDescription": "", 
+            "meterId": "air_temperature", 
+            "meterName": "Mayport (Bar Pilots Dock)", 
+            "meterUnits": ""
+        }, 
+        {
+            "meterDescription": "", 
+            "meterId": "air_temperature", 
+            "meterName": "Mayport (Bar Pilots Dock)", 
+            "meterUnits": ""
+        }
+    ], 
+    "readings": [
+        {
+            "meterId": "8720218", 
+            "timestamp": "2015-04-13T21:48:00+00:00", 
+            "value": 73.4
+        }, 
+        {
+            "meterId": "8720218", 
+            "timestamp": "2015-04-13T21:54:00+00:00", 
+            "value": 73.4
+        }, 
+        {
+            "meterId": "8720218", 
+            "timestamp": "2015-04-13T22:00:00+00:00", 
+            "value": ""
+        }, 
+        {
+            "meterId": "8720218", 
+            "timestamp": "2015-04-13T22:06:00+00:00", 
+            "value": 73.2
+        }, 
+        {
+            "meterId": "8720218", 
+            "timestamp": "2015-04-13T22:12:00+00:00", 
+            "value": 73.4
+        }, 
+        {
+            "meterId": "8720218", 
+            "timestamp": "2015-04-13T22:18:00+00:00", 
+            "value": 73.2
+        }, 
+        {
+            "meterId": "8720218", 
+            "timestamp": "2015-04-13T22:24:00+00:00", 
+            "value": 73.2
+        }, 
+        {
+            "meterId": "8720218", 
+            "timestamp": "2015-04-13T22:30:00+00:00", 
+            "value": 73.2
+        }
+    ]
+}
